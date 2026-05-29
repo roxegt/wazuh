@@ -1,0 +1,7 @@
+<!-- Agregar en /var/ossec/etc/ossec.conf dentro de <ossec_config> -->
+<!-- Lectura de logs del DVR Hikvision -->
+<localfile>
+  <log_format>syslog</log_format>
+  <location>/var/log/hikvision-events.log</location>
+  <only-future-events>no</only-future-events>
+</localfile>
