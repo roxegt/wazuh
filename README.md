@@ -492,4 +492,4 @@ wazuh-siem-lab/
 ---
 
 *Laboratorio desarrollado con fines educativos y de práctica profesional en ciberseguridad.*
-*Autor: rox_liz
+*Autor: Roxana Garat
